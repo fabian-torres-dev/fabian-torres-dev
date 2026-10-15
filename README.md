@@ -18,7 +18,9 @@ Systems Engineer specializing in software development.
      
   3. Design of scalable systems, microservices, service integration, and design patterns.
      
-  4. Integration of artificial intelligence, autonomous agents, and language models into applications. 
+  4. Integration of artificial intelligence, autonomous agents, and language models into applications.
+
+  5. Clean Architecture
 </details>
 
 <!--
